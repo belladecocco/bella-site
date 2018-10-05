@@ -1,19 +1,19 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Portfolio Summary
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Code
+My programming skills developed late in the game. I started out as an admirer of the infinite possibilities of code and have worked my way forward with little web development projects to catch up. I am certain of the need to know programming in the future as technology continues its global conquest. I like most the elements of logic, design, and scalability. Please view my coding portfolio under the code tab. There, I have included my latest front end and back end ventures. 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Web Design
+User experience design blends my coding and art interests. My favorite mock up to date is one that showcases my dog's personal website and blog. Please view his site and other design mocks under the web design tab.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Writing
+Little stories take my love of design to a new level: one of creating by what you cannot see. Much of my writing shines through with poetic taste and description. Penciling images with words became an additional mode of expressing myself. Please view my writing portfolio under the writing tab. There, I have included excerpts from my first novel and pieces of academic writing.  
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+ ### Art
+My love to create started early with a simple pencil and paper. I never much liked color until recently in my transition to digital art and web design. Please view my design portfolio under the design tab. There, I have included some old pieces that are true to myself and some new pieces that integrate my matured technique. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Animation
+I am thrilled to start conquering unity! Updates on this project soon (*fingers crossed).

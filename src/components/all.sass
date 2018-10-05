@@ -1,5 +1,16 @@
+.section
+    padding: 0rem 1.5rem !important;
+@media screen and (min-width: 1088px)
+    .navbar
+        flex-direction: column;
+a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:hover, .navbar-link.is-active
+    background-color: transparent !important;
+    color: grey !important;
+.navbar-item, .navbar-link
+    color: black !important;
+$navbar-item-img-max-height: 8rem
+$navbar-height: 9rem
 @import "~bulma/sass/utilities/initial-variables"
-
 // Config vars
 $kaldi-red: #FD461E
 $kaldi-red-invert: #fff
@@ -40,3 +51,27 @@ $primary-invert: $kaldi-red-invert
   margin-top: 0 !important
 
 @import "~bulma"
+
+.colorBar
+    background-color: #ABB2B9;
+    height: 3rem
+    width: 100%
+    position: relative
+    top: 40px
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: space-between;
+.logo
+    position: relative
+    bottom: 51px
+    left: 15px;
+.container
+    margin-left: 0
+    margin-right: 0
+    max-width: none
+.secondNav
+    display: flex;
+    position: relative; 
+    bottom: 40px;
