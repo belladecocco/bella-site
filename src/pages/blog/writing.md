@@ -1,25 +1,24 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 title: Writing Portfolio
-date: 2018-10-04
-description:
+date: 2018-10-04T00:00:00.000Z
+description: >-
+  Little stories take my love of design to a new level: one of creating by what
+  you cannot see. Much of my writing shines through with poetic taste and
+  description. Penciling images with words became an additional mode of
+  expressing myself.
 tags:
   - fiction
   - philosophy
   - science
   - content writing
-  - technical writing
 ---
-Little stories take my love of design to a new level: one of creating by what you cannot see. Much of my writing shines through with poetic taste and description. Penciling images with words became an additional mode of expressing myself. Please view my writing portfolio under the writing tab. There, I have included excerpts from my first novel and pieces of academic writing.
+\##Philosophy
 
-##Science
-(insert photo of writing)
 
-##Philosophy
-(insert photo of writing)
+![](/img/decocco-isabella_kant-essay.png)
 
-##Technical Writing
-(insert photo of writing)
+\##Fiction
 
-##Fiction
-(insert photo of writing)
+
+![](/img/decocco-isabella_story-excerpt.png)
