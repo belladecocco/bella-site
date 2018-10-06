@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/Bella Site Logo.svg'
+import linkedin from '../img/linkedin.png'
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
@@ -13,18 +14,6 @@ const Navbar = () => (
               <img src={logo} alt="bella" style={{ width: '400px', }} />
             </figure>
           </Link>
-        </div>
-        <div className="navbar-end">
-          <a
-            className="navbar-item"
-            href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <span className="icon">
-              <img src={github} alt="Github" />
-            </span>
-          </a>
         </div>
       </div>
     </div>
@@ -45,6 +34,28 @@ const Navbar = () => (
         <Link className="navbar-item" to="/about">
           Summary
         </Link>
+        <div className="navbar-end">
+          <a
+            className="navbar-item"
+            href="https://github.com/belladecocco"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span className="icon">
+              <img src={github} alt="Github" />
+            </span>
+          </a>
+          <a
+            className="navbar-item"
+            href="https://www.linkedin.com/in/isabella-decocco"
+            target="_blank"
+            rel="noopener noreferrer"
+            >
+            <span className="icon">
+              <img src={linkedin} alt="LinkedIn" />
+            </span>
+            </a>
+        </div>
       </div>
       </div>
   </nav>
