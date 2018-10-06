@@ -10,7 +10,7 @@ tags:
   - CSS
   - Angular 2
 ---
-My programming skills developed late in the game. I started out as an admirer of the infinite possibilities of code and have worked my way forward with little web development projects to catch up. I am certain of the need to know programming in the future as technology continues its global conquest. I most like the elements of logic, design, and scalability. Please view a more complete portfolio on [GitHub](https://github.com/belladecocco). I have included my latest front end and back end ventures there. I have included some pictures and explanations below. 
+I started out as an admirer of the infinite possibilities of code and have worked my way forward with little web development projects to catch up. I am certain of the need to know programming in the future as technology continues its global conquest. I most like the elements of logic, design, and scalability. Please view a more complete portfolio on [GitHub](https://github.com/belladecocco). I have included my latest front end and back end ventures there. I have included some pictures and explanations below. 
 
 ## Authenticate
 
