@@ -12,6 +12,6 @@ My love to create started early with a simple pencil and paper. I never much lik
 
 ## Elephants and Ivory Trade
 
-This multimedia statement piece comments on the horrors of the ivory trade and elephant poaching through highlighted newspaper and article clippings as well as a mind-mapping of ivory trade associations and the contrast these associations make to elephant culture and elephants in popular media. The overlay of the mother and child in addition to the fond and popular elephant icons juxtaposes the inhumane consideration and treatment elephants receive.  The mother and child are painted in blue watercolor with the mind-mapping in red sharpie. Size: 
+This multimedia statement piece comments on the horrors of the ivory trade and elephant poaching through highlighted newspaper and article clippings as well as a mind-mapping of ivory trade associations and the contrast these associations make to elephant culture and elephants in popular media. The overlay of the mother and child in addition to the fond and popular elephant icons juxtaposes the inhumane consideration and treatment elephants receive.  The mother and child are painted in blue watercolor with the mind-mapping in red sharpie. Size: 36 x 54in.
 
-![](/img/img_1360.jpg)
+![null](/img/img_1360.jpg)
