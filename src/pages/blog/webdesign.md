@@ -1,12 +1,14 @@
 ---
 templateKey: blog-post
 title: Web Design Portfolio
-date: 2018-09-29
-description:
+date: 2018-09-29T00:00:00.000Z
+description: ' '
 tags:
   - web design
   - Adobe XD
 ---
+
+
 User experience design blends my art and programming interests. My favorite mock up to date is one that showcases my dog's personal website and blog. Please view his site and other web design mocks here.
 
 ## Roman's Site
@@ -29,9 +31,15 @@ Inspired by my dog, Roman, this mock up using Adobe XD presents his personal sit
 
 ![components board](/img/components board.png)
 
-##Recipe Keeper
+## Recipe Keeper
 
 This mock up, also using Adobe XD, showcases a site where users can save family or personal recipes in digital form to reference when cooking or planning for events. Some features of note: 
 
 * I created the home page category icons using various tools in Adobe Illustrator. 
 * The right-side navigation menu icons were created in Adobe XD using the pen and shape tool.
+
+![null](/img/start.png)
+
+![](/img/selected_category.png)
+
+![](/img/selected_recipe.png)
