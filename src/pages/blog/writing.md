@@ -15,10 +15,14 @@ tags:
 ---
 \##Philosophy
 
+The excerpt below is from an academic essay I wrote for Modern Philosophy that puts Kant in conversation with existentialism. 
+
 
 ![](/img/decocco-isabella_kant-essay.png)
 
 \##Fiction
 
+
+The excerpt below is from a chapter of my fiction novel-in-progress. 
 
 ![](/img/decocco-isabella_story-excerpt.png)
