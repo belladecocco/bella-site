@@ -21,8 +21,9 @@ This multimedia statement piece comments on the horrors of the ivory trade and e
 Graphite and white colored pencil. Size: 6 x 9in.
 
 
+
 ## Self Portrait
 
 Graphite. Size: 12 x 18in.
 
-![](/img/img_1846.jpg)
+![null](/img/img_1846.jpg)
