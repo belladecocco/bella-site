@@ -24,7 +24,7 @@ Graphite and white colored pencil. Size: 6 x 9in.
 
 ![null](/img/img_0551.jpg)
 
-![null](/img/img_0550-1-.jpg)
+![null](/img/img_0550-1.jpg)
 
 ![null](/img/img_0552.jpg)
 
