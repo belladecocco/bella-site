@@ -16,6 +16,9 @@ This multimedia statement piece comments on the horrors of the ivory trade and e
 
 ![null](/img/img_1360-2-.jpg)
 
+## Sleeping Beauty Series
+
+Graphite and white colored pencil. Size: 6 x 9in.
 
 
 ## Self Portrait
